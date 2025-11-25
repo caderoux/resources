@@ -1,4 +1,4 @@
-Lozenge Shape - With number - prints on side:
+Lozenge Shape ("Extremely Loud and Compact Emergency Whistle") - with number - prints on its side - probably the loudest whistle:
 
 <img width="1312" height="763" alt="image" src="https://github.com/user-attachments/assets/58aa01f9-5bd2-40e7-aac6-300705e2c475" />
 
@@ -10,6 +10,6 @@ Wide flat - with number
 
 <img width="1181" height="672" alt="image" src="https://github.com/user-attachments/assets/cdae4554-18c8-4d69-80cd-92d7bdee9dff" />
 
-Bitonal - with number
+Bitonal - with number - loudness seems to be on a par with the lozenge shaped whistle
 
 <img width="1057" height="682" alt="image" src="https://github.com/user-attachments/assets/69665c77-d933-4a86-b7bd-e23536d9d4d6" />
