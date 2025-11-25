@@ -1,5 +1,19 @@
 Some resources for emergency and safety
 
+Whistle FAQ:
+
+Q. Which whistle should I print?
+
+A. The loudest whistle you can print reliably in the most quantities
+
+Q. How do I do that?
+
+A. Print the lozenge whistle, either the original one or one of the number variants.  Print other whistles from makerworld, printables or this repo and compare them.  Print as many as you can and get connected so they can be distributed into the community.
+
+Q. Should I print one with the rapid response number?
+
+A. Organizers have expressed that they like having that number there.  But that number is regionally specific, so it does limit ability to send whistles elsewhere.
+
 Zines to go with whistles:
 
 https://drive.google.com/drive/folders/1RatBK-m58VpzdUM6bljaUN90ZA8q8jRh?usp=drive_link - all New Orleans-specific
