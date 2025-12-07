@@ -1,5 +1,9 @@
 Some resources for emergency and safety
 
+Current top recommended whistle (if it prints well for you)
+
+https://www.printables.com/model/1443470-compact-dual-chamber-whistle-v2
+
 Whistle FAQ:
 
 Q. Which whistle should I print?
