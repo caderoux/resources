@@ -2,6 +2,8 @@ Some resources for emergency and safety
 
 Current top recommended whistle is the dual chamber whistle from bakedbean3d (if it prints well for you)
 
+https://github.com/caderoux/resources/tree/main/Whistles/Dual%20Chamber%20Whistle%20-%20bakedbean3d%20-%20with%20number
+
 <img width="905" height="452" alt="image" src="https://github.com/user-attachments/assets/d44cdfca-0640-4562-bf1d-140d8b7d2780" />
 
 Whistle FAQ:
