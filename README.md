@@ -1,8 +1,6 @@
 Some resources for emergency and safety
 
-Current top recommended whistle (if it prints well for you)
-
-https://www.printables.com/model/1443470-compact-dual-chamber-whistle-v2
+Current top recommended whistle is the dual chamber whistle from bakedbean3d (if it prints well for you)
 
 <img width="905" height="452" alt="image" src="https://github.com/user-attachments/assets/d44cdfca-0640-4562-bf1d-140d8b7d2780" />
 

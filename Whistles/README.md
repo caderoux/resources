@@ -1,4 +1,6 @@
-Lozenge Shape ("Extremely Loud and Compact Emergency Whistle") - with number - prints on its side - probably the loudest whistle:
+Dual Chamber Whistle - bakedbean3d - with number - new loudest whistle
+
+Lozenge Shape ("Extremely Loud and Compact Emergency Whistle") - with number - prints on its side
 
 <img width="1312" height="763" alt="image" src="https://github.com/user-attachments/assets/58aa01f9-5bd2-40e7-aac6-300705e2c475" />
 
