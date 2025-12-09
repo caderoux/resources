@@ -1,4 +1,6 @@
-Some resources for emergency and safety
+Why print whistles for community response?  Why not buy them in bulk from Amazon?
+
+Printed whistles typically run from 2 to 5 cents per whistle, and in large batches, production time can be as little as 6 minutes per whistle.  Even small build plates can print a significant number of whistles, and larger build plates actually don't really need to be maxed out because the time to print really doesn't need to exceed 8 hours if you want to run round-the-clock production.  Any filament can be used and finding a reliable model can be done fairly quickly.  A typical small printer can easily put out 200 whistles a day, and that will be a filament cost of just $2-$4.
 
 Current top recommended whistle is the dual chamber whistle from bakedbean3d (if it prints well for you)
 
